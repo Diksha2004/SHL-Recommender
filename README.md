@@ -3,7 +3,7 @@ This project helps HR professionals find relevant SHL assessments based on job d
 
 Subject: Apology Regarding Deployment URLs Submission
 
-Dear [Recipient's Name / SHL Team],
+Respected SHL Team,
 
 I sincerely apologize for not being able to provide the hosted demo and API endpoint URLs as requested in the submission guidelines. Due to technical constraints and deployment challenges, I was unable to host the working demo and API online.
 
@@ -14,3 +14,20 @@ However, I have ensured that the complete source code, including the working dem
 You can run the project locally by following the instructions provided in the README. If needed, I would be happy to assist further or demonstrate the functionality live.
 
 Thank you for your understanding, and I appreciate the opportunity.
+
+
+to run this project
+### 1. Clone this Repository
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+
+2.Create and Activate Virtual Environment
+python -m venv venv
+venv\Scripts\activate
+
+3.Install Required Packages
+pip install -r requirements.txt
+
+4.Run the Streamlit Demo App
+streamlit run app.py
