@@ -18,21 +18,30 @@ Thank you for your understanding, and I appreciate the opportunity.
 
 
 to run this project
-### 1. Clone this Repository
-```bash
-git clone https:https://github.com/Diksha2004/SHL-Recommender.git
-cd SHL-Recommender.git
+1. **Clone this Repository**
+    ```bash
+    git clone https://github.com/Diksha2004/SHL-Recommender.git
+    cd SHL-Recommender
+    ```
 
-2.Create and Activate Virtual Environment
-python -m venv venv
-venv\Scripts\activate
+2. **Create and Activate Virtual Environment**
+    ```bash
+    python -m venv venv
+    venv\Scripts\activate   # On Windows
+    # OR
+    source venv/bin/activate   # On macOS/Linux
+    ```
 
-3.Install Required Packages
-pip install -r requirements.txt
+3. **Install Required Packages**
+    ```bash
+    pip install -r requirements.txt
+    ```
 
-4.Run the Streamlit Demo App
-streamlit run app.py
-```
+4. **Run the Streamlit Demo App**
+    ```bash
+    streamlit run app.py
+    ```
 
-![Image Description](shl1.png)
+
+![SHL-Recommender Screenshot](images/shl1.png)
 
