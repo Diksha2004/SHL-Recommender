@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 4.Run the Streamlit Demo App
 streamlit run app.py
-
+```
 
 ![Image Description](shl1.png)
 
