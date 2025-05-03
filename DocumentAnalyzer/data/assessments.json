@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Automata - Fix (New) | SHL",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-fix-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "duration": "30 minutes",
+    "test_type": "Technical",
+    "description": "Automata test for evaluating technical skills with debugging and fixing code."
+  },
+  {
+    "name": "Core Java (Entry Level) (New) | SHL",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "duration": "40 minutes",
+    "test_type": "Technical",
+    "description": "Core Java test for assessing entry-level Java development skills."
+  },
+  {
+    "name": "Java 8 (New) | SHL",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "duration": "35 minutes",
+    "test_type": "Technical",
+    "description": "Java 8 assessment for testing knowledge of Java 8 features and functionality."
+  },
+  {
+    "name": "Core Java (Advanced Level) (New) | SHL",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-advanced-level-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "duration": "45 minutes",
+    "test_type": "Technical",
+    "description": "Advanced Java assessment for senior developers and architects."
+  },
+  {
+    "name": "Agile Software Development | SHL",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-software-development/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "duration": "35 minutes",
+    "test_type": "Skills",
+    "description": "Assessment of knowledge and skills in Agile software development methodologies."
+  },
+  {
+    "name": "Technology Professional 8.0 Job Focused Assessment | SHL",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/technology-professional-8-0-job-focused-assessment/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "duration": "40 minutes",
+    "test_type": "Skills",
+    "description": "Comprehensive assessment for technology professionals across various domains."
+  },
+  {
+    "name": "Computer Science (New) | SHL",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/computer-science-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "duration": "45 minutes",
+    "test_type": "Technical",
+    "description": "Assessment of fundamental computer science concepts and problem-solving."
+  },
+  {
+    "name": "Entry level Sales 7.1 (International) | SHL",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-7-1/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "duration": "35 minutes",
+    "test_type": "Skills",
+    "description": "Sales aptitude assessment for entry-level sales professionals."
+  },
+  {
+    "name": "Entry Level Sales Sift Out 7.1 | SHL",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-sift-out-7-1/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "duration": "25 minutes",
+    "test_type": "Skills",
+    "description": "Screening assessment for entry-level sales positions."
+  },
+  {
+    "name": "Entry Level Sales Solution | SHL",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-solution/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "duration": "60 minutes",
+    "test_type": "Skills",
+    "description": "Comprehensive solution for evaluating entry-level sales candidates."
+  },
+  {
+    "name": "Sales Representative Solution | SHL",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-representative-solution/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "duration": "55 minutes",
+    "test_type": "Skills",
+    "description": "Assessment solution for sales representative positions."
+  },
+  {
+    "name": "Sales Support Specialist Solution | SHL",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-support-specialist-solution/",
+    "remote_testing": "Yes", 
+    "adaptive_irt": "No",
+    "duration": "50 minutes",
+    "test_type": "Skills",
+    "description": "Assessment for sales support specialist roles focusing on organizational and support skills."
+  },
+  {
+    "name": "Technical Sales Associate Solution | SHL",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/technical-sales-associate-solution/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "duration": "60 minutes",
+    "test_type": "Skills",
+    "description": "Assessment for technical sales professionals combining technical knowledge and sales skills."
+  },
+  {
+    "name": "SVAR - Spoken English (Indian Accent) (New) | SHL",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-english-indian-accent-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "duration": "30 minutes",
+    "test_type": "Language",
+    "description": "Assessment of spoken English proficiency with focus on Indian accent."
+  },
+  {
+    "name": "Sales & Service Phone Solution | SHL",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-and-service-phone-solution/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "duration": "45 minutes",
+    "test_type": "Skills",
+    "description": "Assessment for phone-based sales and customer service roles."
+  },
+  {
+    "name": "Sales & Service Phone Simulation | SHL",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-and-service-phone-simulation/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "duration": "40 minutes",
+    "test_type": "Simulation",
+    "description": "Interactive simulation assessing phone-based sales and service skills."
+  },
+  {
+    "name": "English Comprehension (New) | SHL",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/english-comprehension-new/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "duration": "30 minutes",
+    "test_type": "Language",
+    "description": "Assessment of English language comprehension skills."
+  },
+  {
+    "name": "Motivation Questionnaire | SHL",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/motivation-questionnaire/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "duration": "25 minutes",
+    "test_type": "Personality",
+    "description": "Assessment of candidate motivations and drivers in the workplace."
+  },
+  {
+    "name": "Python (Entry Level) | SHL",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/python-entry-level/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "duration": "40 minutes",
+    "test_type": "Technical",
+    "description": "Assessment of entry-level Python programming skills."
+  },
+  {
+    "name": "SQL (Entry Level) | SHL",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-entry-level/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "duration": "35 minutes",
+    "test_type": "Technical",
+    "description": "Assessment of entry-level SQL database querying skills."
+  },
+  {
+    "name": "JavaScript (Entry Level) | SHL",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/javascript-entry-level/",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "duration": "40 minutes",
+    "test_type": "Technical",
+    "description": "Assessment of entry-level JavaScript programming skills."
+  }
+]
