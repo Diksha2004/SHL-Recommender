@@ -34,5 +34,5 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-![Alt Text](shl1)
+![Image Description](shl1.png)
 
