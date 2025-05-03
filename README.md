@@ -9,7 +9,7 @@ I sincerely apologize for not being able to provide the hosted demo and API endp
 
 However, I have ensured that the complete source code, including the working demo, API logic, and evaluation files, is available and well-documented in the GitHub repository below:
 
-🔗 GitHub Link: [Insert Your GitHub Repo URL Here]
+🔗 GitHub Link: https://github.com/Diksha2004/SHL-Recommender.git
 
 You can run the project locally by following the instructions provided in the README. If needed, I would be happy to assist further or demonstrate the functionality live.
 
@@ -19,8 +19,8 @@ Thank you for your understanding, and I appreciate the opportunity.
 to run this project
 ### 1. Clone this Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https:https://github.com/Diksha2004/SHL-Recommender.git
+cd SHL-Recommender.git
 
 2.Create and Activate Virtual Environment
 python -m venv venv
