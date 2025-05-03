@@ -42,6 +42,5 @@ to run this project
     streamlit run app.py
     ```
 
-
-![SHL-Recommender Screenshot](images/shl1.png)
+![Image Description](images/shl_1.png)
 
